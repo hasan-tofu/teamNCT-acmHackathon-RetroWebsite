@@ -1,0 +1,5 @@
+{
+  "name": "ACM-UDST Arcade Dashboard",
+  "description": "A retro 90s RPG/arcade themed web application for the ACM UDST Student Chapter, featuring gamified events, courses, and a leaderboard to track member progress and engagement.",
+  "requestFramePermissions": []
+}
